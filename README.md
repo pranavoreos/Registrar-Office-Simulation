@@ -12,4 +12,4 @@ A program that uses a queues and doubly linked list simulate a student registrar
 
 4.) Michael Kulinich/ Joseph Sneifer https://www.cplusplus.com/files/tutorial.pdf / https://stackoverflow.com
 
-5.) None
+5.) g++ *.cpp  ./a.out Input.txt
