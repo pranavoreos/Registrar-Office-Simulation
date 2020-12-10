@@ -1,4 +1,4 @@
-Registrar’s Office Simulation
+# Registrar’s Office Simulation
 
 A program that uses a queues and doubly linked list simulate a student registrar's office and output basic statistics.
 
